@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/parkerstone/Documents/School/Web VI/Practice/spa-blazor-example/spa-blazor-example/obj/Debug/net8.0/scopedcss/projectbundle/spa-blazor-example.bundle.scp.css",
+      "PackagePath": "staticwebassets/spa-blazor-example.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/parkerstone/Documents/School/Web VI/Practice/spa-blazor-example/spa-blazor-example/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/parkerstone/Documents/School/Web VI/Practice/spa-blazor-example/spa-blazor-example/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/parkerstone/Documents/School/Web VI/Practice/spa-blazor-example/spa-blazor-example/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/parkerstone/Documents/School/Web VI/Practice/spa-blazor-example/spa-blazor-example/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.spa-blazor-example.props",
+      "PackagePath": "build\\spa-blazor-example.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.spa-blazor-example.props",
+      "PackagePath": "buildMultiTargeting\\spa-blazor-example.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.spa-blazor-example.props",
+      "PackagePath": "buildTransitive\\spa-blazor-example.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.spa-blazor-example.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

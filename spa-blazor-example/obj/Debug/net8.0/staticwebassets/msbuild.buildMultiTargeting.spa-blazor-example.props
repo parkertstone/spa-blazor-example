@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/spa-blazor-example.props" />
+</Project>
