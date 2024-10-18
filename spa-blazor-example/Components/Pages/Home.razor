@@ -1,7 +1,27 @@
 ﻿@page "/"
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
+<div class="main-content">
+
 <h1>SPAs</h1>
 
-<!-- Add SPA overview here -->
+<h3>What is a SPA?</h3>
+<p>SPA is a web application that interacts with the user by dynamically rewriting the current page with new data from the web server, instead of loading entire new pages.  </p>
+<p>This allows the content to be more dynamic and faster than loading many pages.</p>
+<p>As you can see below, the button updates without the page reloading.</p>
+
+<button @onclick="IncrementCounter">Click me</button>
+<p>Current count: @currentCount</p>
+</div>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCounter()
+    {
+        currentCount++;
+    }
+}
+
