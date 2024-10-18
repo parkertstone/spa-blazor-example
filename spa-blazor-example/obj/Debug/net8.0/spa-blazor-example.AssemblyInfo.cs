@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spa-blazor-example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a79f1e0d68d57c17643e77787c17ae10400fc36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3850308243202fb0b0660950edf68b6bd03f95bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("spa-blazor-example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spa-blazor-example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
